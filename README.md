@@ -1,2 +1,2 @@
 # recipe_project
-My first project for Odin Project
+This is my first ever website project made for Odin Project curriculum of web dev.
